@@ -1,2 +1,2 @@
-SELECT NAME FROM CUSTOMERS WHERE STATE = 'RS'
+SELECT name FROM customers WHERE state = 'RS'
 
