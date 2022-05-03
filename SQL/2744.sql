@@ -1,1 +1,1 @@
-SELECT ID, PASSWORD, MD5(PASSWORD) FROM ACCCOUNT;
+SELECT id, password, md5(password) FROM account;
